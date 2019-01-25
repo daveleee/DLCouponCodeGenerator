@@ -1,6 +1,5 @@
 # DLCouponCodeGenerator
-Coupon Code Generator 
-# Coupon Code Generator
+Coupon Code Generator  
 
 ## 쿠폰 코드 생성 & 사용
 
