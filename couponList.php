@@ -29,7 +29,7 @@
 
 	$allPost = $row['cnt'];													//전체 게시글의 수
 
-	$onePage = 10;															// 한 페이지에 보여줄 게시글의 수
+	$onePage = 100;															// 한 페이지에 보여줄 게시글의 수
 	$allPage = ceil($allPost / $onePage); 									// 전체 페이지의 수
        
     $oneSection = 10; 														// 한번에 보여줄 총 페이지 개수(1 ~ 10, 11 ~ 20)
